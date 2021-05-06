@@ -1,9 +1,9 @@
 ### **Hi, this is Gurrala Harika Reddy** 👋
 
 
-  - I'm intrested in developing attractive user interfaces. :blush:
-  - learning and working on react js.
-  - 
+  - I'm interested in developing attractive user interfaces. :blush:
+  - Learning and Working on React js.
+  
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
