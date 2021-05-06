@@ -32,8 +32,11 @@
 <a href="https://t.me/harikareddy10">
   <img align="left" alt="Harika | Telegram" width="21px" src="https://github.com/phanit1/phanit1/blob/main/telegram.jpg?raw=true" />
 </a><br>
+
+
   | Intrested topics  | Learning  |
   | ------------- | ------------- |
   | Developing UI  | Yes  |
   | Software Development  | Yes  |
+
 
