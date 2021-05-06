@@ -20,6 +20,18 @@
 ## &#x1f4c8; GitHub Stats
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurralaharika21&theme=cobalt"/></a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=gurralaharika21&show_icons=true&theme=cobalt&count_private=true" alt="Harika's GitHub Stats"/></a>
+
+
+## <img src="https://raw.githubusercontent.com/phanit1/phanit1/master/contact.png" width = "30px" height="30px"> Contact Me
+<a href="https://twitter.com/gurralaharika/">
+  <img align="left" alt="Phani | Twitter" width="21px" src="https://github.com/phanit1/phanit1/blob/main/twitter.jpg?raw=true" />
+</a>
+<a href="https://www.linkedin.com/in/harika-reddy-97b8a916b/">
+  <img align="left" alt="Harika | LinkedIn" width="21px" src="https://github.com/phanit1/phanit1/blob/main/linkedin.jpg?raw=true" />
+</a>
+<a href="https://t.me/harikareddy10">
+  <img align="left" alt="Harika | Telegram" width="21px" src="https://github.com/phanit1/phanit1/blob/main/telegram.jpg?raw=true" />
+</a><br>
   | Intrested topics  | Learning  |
   | ------------- | ------------- |
   | Developing UI  | Yes  |
