@@ -34,7 +34,7 @@
 </a><br><br><br>
 
 
-  | Intrested topics  | Learning  |
+  | Interested topics  | Learning  |
   | ------------- | ------------- |
   | Developing UI  | Yes  |
   | Software Development  | Yes  |
