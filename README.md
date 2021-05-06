@@ -17,6 +17,9 @@
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
+## &#x1f4c8; GitHub Stats
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurralaharika21&theme=cobalt"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=gurralaharika21&show_icons=true&theme=cobalt&count_private=true" alt="Harika's GitHub Stats"/></a>
   | Intrested topics  | Learning  |
   | ------------- | ------------- |
   | Developing UI  | Yes  |
