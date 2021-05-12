@@ -28,7 +28,7 @@
 </a>
 <a href="https://www.linkedin.com/in/harika-reddy-97b8a916b/">
   <img align="left" alt="Harika | LinkedIn" width="21px" src="https://github.com/phanit1/phanit1/blob/main/linkedin.jpg?raw=true" />
-</a>
+</a> <br< <br> <br> 
 
 
 
